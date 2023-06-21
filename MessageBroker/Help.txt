@@ -1,0 +1,6 @@
+Client Terminal Instranctions:
+
+-a , --address : <host , port>
+-p , --publish : <topic , message>
+-s , --subscribe : <topic1 , topic2 , ...>
+-i , --ping
